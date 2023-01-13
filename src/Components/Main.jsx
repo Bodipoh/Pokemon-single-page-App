@@ -48,7 +48,7 @@ const Main=()=>{
                         { nextUrl && <button onClick={()=>{
                             setPokeData([])
                             setUrl(nextUrl)
-                        }}>Next</button>}
+                        }}>Next ...</button>}
 
                     </div>
                 </div>
