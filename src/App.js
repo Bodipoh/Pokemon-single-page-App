@@ -8,5 +8,5 @@ function App() {
     </>
   );
 }
-sj
+
 export default App;
